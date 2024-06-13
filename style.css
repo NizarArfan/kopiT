@@ -1,0 +1,58 @@
+* {
+  font-family: "zilla slab", serif;
+}
+
+.font1 {
+  font-family: "Kanit",sans-serif,;
+}
+.bg-navigasi
+{
+  background-color: #686D76;
+}
+
+.bg-hero
+{
+  background-color: #000000;
+}
+
+.img-fitur
+{
+  width: 150px;
+}
+
+.testimoni
+{
+  background-color: #00;
+  color: #fff;
+  height: 450px;
+}
+
+.img-testimoni
+{
+  width: 100px;
+}
+
+.carousel-inner
+{
+  padding: 0 10%;
+}
+
+.paket-row:nth-of-type(even)
+{
+  background-color: #EEFFFF;
+}
+
+.paket-row:hover
+{
+  background-color: #88FFF7;
+}
+
+.kontak
+{
+  padding-left: 150px: 
+}
+
+footer
+{
+  background-color: #7DEDFF;
+}
